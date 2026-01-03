@@ -1,0 +1,7 @@
+streamlit == 1.40.1  # open source library (web operation for education)
+numpy == 1.26.4
+scipy == 1.14.1
+matplotlib == 3.9.2
+pillow == 10.4.0
+torch == 2.6.0
+fastai == 2.7.19
